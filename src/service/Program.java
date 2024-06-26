@@ -15,7 +15,7 @@ public class Program {
     public static void main(String[] args) {
 
         //==========================================================================//
-        //All product
+        //All products
 
         Product p1 = new Product();
         Product p2 = new Product();
