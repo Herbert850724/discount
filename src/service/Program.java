@@ -47,6 +47,7 @@ public class Program {
         Product p26 = new Product();
         Product p27 = new Product();
         Product p28 = new Product();
+        Product p29 = new Product();
     
         p1.setName("康寶雞湯塊");
         p1.setSku("SOUP-31423");
